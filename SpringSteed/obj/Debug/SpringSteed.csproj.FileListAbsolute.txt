@@ -1,0 +1,17 @@
+D:\UserFiles\Desktop\SpringSteed\SpringSteed\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+D:\UserFiles\Desktop\SpringSteed\SpringSteed\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+D:\UserFiles\Desktop\SpringSteed\SpringSteed\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+D:\UserFiles\Desktop\SpringSteed\SpringSteed\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+D:\UserFiles\Desktop\SpringSteed\SpringSteed\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+D:\UserFiles\Desktop\SpringSteed\SpringSteed\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+D:\UserFiles\Desktop\SpringSteed\SpringSteed\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+D:\UserFiles\Desktop\SpringSteed\SpringSteed\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+D:\UserFiles\Desktop\SpringSteed\SpringSteed\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+D:\UserFiles\Desktop\SpringSteed\SpringSteed\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+D:\UserFiles\Desktop\SpringSteed\SpringSteed\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+D:\UserFiles\Desktop\SpringSteed\SpringSteed\bin\DesktopGL\AnyCPU\Debug\SpringSteed.exe
+D:\UserFiles\Desktop\SpringSteed\SpringSteed\bin\DesktopGL\AnyCPU\Debug\SpringSteed.pdb
+D:\UserFiles\Desktop\SpringSteed\SpringSteed\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+D:\UserFiles\Desktop\SpringSteed\SpringSteed\obj\Debug\SpringSteed.csprojResolveAssemblyReference.cache
+D:\UserFiles\Desktop\SpringSteed\SpringSteed\obj\Debug\SpringSteed.exe
+D:\UserFiles\Desktop\SpringSteed\SpringSteed\obj\Debug\SpringSteed.pdb
